@@ -1,2 +1,13 @@
 .DS_Store
 .DS_Store?
+
+*/credentials.ini
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Exclude any other files or directories specific to your project
